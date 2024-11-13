@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.onda img{
+    width: 100%;
+}
+.iniciogeral{
+    text-align: center;
+    color: white;
+}
+.inicio{
+   margin-top: -370px;
+}
+.iniciosegundario{
+    border-radius: 10px;
+    color: black;
+}
+.notebook{
+    position: absolute;
+    top: 26%;
+    left: 43%;
+}
+.notebook img{
+    width:15vw;  
+
+}
+.topo {
+   position: absolute;
+   left:38%;
+   top: 0%;
+}
